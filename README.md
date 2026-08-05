@@ -248,7 +248,10 @@ Several enhancements have been identified to further improve the robot's perform
 - Implement closed-loop PID control for smoother motion and improved stability.
 - Optimize power management to increase battery life.
 
+## 🙏 Acknowledgements
 
-##  Acknowledgements
+This project was carried out as part of the **EEE 2124: Electronics** course at **United International University (UIU)** under the supervision of **Fahim Hafiz**, whose guidance and feedback were instrumental throughout the design and development process.
 
-This project was developed as part of the **EEE 2124: Electronics** course at **United International University (UIU)** under the supervision of **Fahim Hafiz**. We sincerely appreciate the guidance provided throughout the project and acknowledge the inspiration drawn from the **EJBot-II** research paper, which served as the foundation for the aerodynamic wall-climbing concept.
+The project was inspired by the research paper **"EJBot-II: An Optimized Skid-Steering Propeller-Type Climbing Robot with Transition Mechanism,"** which provided the foundation for exploring aerodynamic adhesion as an alternative approach to wall climbing.
+
+The successful completion of this project was the result of extensive research, iterative design, hardware integration, software development, and continuous testing. It provided our team with valuable practical experience in robotics, embedded systems, control systems, and engineering problem-solving, while demonstrating the feasibility of aerodynamic wall climbing using a compact ESP32-based robotic platform.
